@@ -1,0 +1,82 @@
+Please Add This To Your Ox_Inventory Folder "ox_inventory/data/items.lua"
+    ['torso'] = {
+		label = 'Torso',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.torso'
+		}
+	},
+	['jeans'] = {
+		label = 'Jeans',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.jeans'
+		}
+	},
+	['shoes'] = {
+		label = 'shoes',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.shoes'
+		}
+	},
+
+	['mask'] = {
+		label = 'Mask',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.mask'
+		}
+	},
+	['ears'] = {
+		label = 'Ears Accessories',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.ears'
+		}
+	},
+	['chain'] = {
+		label = 'Chain',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.chain'
+		}
+	},
+	['glasses'] = {
+		label = 'Glasses',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.glasses'
+		}
+	},
+	['vest'] = {
+		label = 'Vest',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.vest'
+		}
+	},
+	['helmet'] = {
+		label = 'Helmet',
+		weight = 70,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.helmet'
+		}
+	},
+  	['bag'] = {
+		label = 'Bag',
+		weight = 50,
+		stack = false,
+		client = {
+			export = 'sdw-clothes.bag'
+		}
+	},
