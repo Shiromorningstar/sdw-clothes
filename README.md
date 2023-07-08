@@ -7,4 +7,5 @@ Fivem OX Clothing In Item Metadata
 SHIRO MORNINGSTAR!
 https://discord.gg/Cb5Ag3kUXd
 
-https://media.discordapp.net/attachments/988901504100470887/1125660846287233095/image-17.png?width=383&height=661
+![image](https://github.com/Shiromorningstar/sdw-clothes/assets/91198430/c6e3a9e5-38b7-4e67-a060-bf714ddc945c)
+
