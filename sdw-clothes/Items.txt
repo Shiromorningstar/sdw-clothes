@@ -12,7 +12,7 @@ Please Add This To Your Ox_Inventory Folder "ox_inventory/data/items.lua"
 		weight = 50,
 		stack = false,
 		client = {
-			export = 'sdw-clothes.jeans'
+			export = 'sdw-clothes.pants'
 		}
 	},
 	['shoes'] = {
