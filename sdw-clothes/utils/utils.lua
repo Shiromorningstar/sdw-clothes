@@ -1,4 +1,4 @@
-Msf = {}
+SDW = {}
 
 function SDW.PlayAnim(dict, anim, wait)
     SDW.LoadAnimDict(dict)
